@@ -1,1 +1,1 @@
-module.exports = { useful: () => 'Useful innit.' };
+export const useful = () => 'Useful innit.';
