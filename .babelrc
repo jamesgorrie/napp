@@ -4,10 +4,7 @@
   ],
   "plugins": [
     ["module-resolver", {
-      "root": ["./"],
-      "alias": {
-        "common": "./../common"
-      }
+      "root": ["./"]
     }]
   ]
 }
