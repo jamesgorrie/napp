@@ -1,1 +1,0 @@
-export const appLevel = () => 'app level!';

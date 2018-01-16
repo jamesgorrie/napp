@@ -1,1 +1,1 @@
-export const useful = () => 'Useful innit.';
+export const helpful = () => 'Useful innit.';
